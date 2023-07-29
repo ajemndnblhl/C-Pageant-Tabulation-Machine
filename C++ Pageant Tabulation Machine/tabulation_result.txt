@@ -1,0 +1,16 @@
+Number of Candidates: 4
+Number of Criteria: 5
+Summary of Criteria and their Percentage:
+Criterion      Percentage     
+    Beauty         30             
+    Brain          40             
+    talent         10             
+    Personality    10             
+    Audience impact10             
+
+Ranking
+1st Runner Up: Winston Arroyo with overall score 96.1
+2nd Runner Up: Ajemher M. Balahula with overall score 92.7
+3rd Runner Up: Joshua Del Valle with overall score 92.1
+4th Runner Up: Ranier C. Gargoles with overall score 88.2
+====================================================

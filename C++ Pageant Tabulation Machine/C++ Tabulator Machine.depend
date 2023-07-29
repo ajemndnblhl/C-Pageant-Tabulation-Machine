@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1690227459 source:c:\users\ajemn\onedrive\documents\codes\codeblocks\c++ tabulator machine\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cmath>
+	<algorithm>
+
